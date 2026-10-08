@@ -609,4 +609,4 @@ All dependency licenses will be re-verified, and attributions added, in the fina
 
 ---
 
-**Team D3ADcode** | Tejas Fuse | [GitHub](https://github.com/tejas-fuse) | tejasfuse343.caption@gmail.com
+**Team D3ADcode** | 1.Tejas Fuse 2. Darshan Lahase | 1.[GitHub](https://github.com/tejas-fuse) 2.[GitHub](https://github.com/lahasedarshan-01) | 1. tejasfuse343.caption@gmail.com 2. lahasedarshan@gmail.com
